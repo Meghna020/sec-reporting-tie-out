@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img">
+<rect width="1000" height="560" rx="18" fill="#f8fafc"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a">SEC Filing Tie-Out Exceptions</text>
+<text x="55" y="88" font-family="Arial,sans-serif" font-size="15" fill="#5b6575">Absolute filing-to-ledger differences by financial statement line</text>
+<text x="280" y="147.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Accounts payable</text>
+<rect x="300" y="125.0" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="125.0" width="0.0" height="30" rx="6" fill="#0f766e"/>
+<text x="312.0" y="146.0" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$0K</text>
+<text x="280" y="205.33333333333334" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Accounts receivable</text>
+<rect x="300" y="183.33333333333334" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="183.33333333333334" width="0.0" height="30" rx="6" fill="#0f766e"/>
+<text x="312.0" y="204.33333333333334" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$0K</text>
+<text x="280" y="263.6666666666667" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Cash and cash equivalents</text>
+<rect x="300" y="241.66666666666669" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="241.66666666666669" width="0.0" height="30" rx="6" fill="#0f766e"/>
+<text x="312.0" y="262.6666666666667" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$0K</text>
+<text x="280" y="322.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Operating expenses</text>
+<rect x="300" y="300.0" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="300.0" width="295.0" height="30" rx="6" fill="#dc2626"/>
+<text x="607.0" y="321.0" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$2K</text>
+<text x="280" y="380.33333333333337" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Property plant and equipment</text>
+<rect x="300" y="358.33333333333337" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="358.33333333333337" width="590.0" height="30" rx="6" fill="#dc2626"/>
+<text x="902.0" y="379.33333333333337" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$5K</text>
+<text x="280" y="438.6666666666667" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#172033">Revenue</text>
+<rect x="300" y="416.6666666666667" width="590" height="30" rx="6" fill="#e8eef4"/>
+<rect x="300" y="416.6666666666667" width="0.0" height="30" rx="6" fill="#0f766e"/>
+<text x="312.0" y="437.6666666666667" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#172033">$0K</text>
+<text x="945" y="535" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">Synthetic portfolio data • Meghna Sarmah</text>
+</svg>
